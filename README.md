@@ -2,7 +2,5 @@
 
 - clone this repo
 - npm install
-- Add your function with the unit test
-- Run the test : npm run test:watch
+- Add your function with or withou the unit test
 - Create a pull request
-- I'll merge your function
