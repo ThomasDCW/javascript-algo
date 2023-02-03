@@ -1,6 +1,6 @@
 - Comment commenter en html ?
 
-<!-- commentaire -->
+< !-- commentaire -->
 
 - Quel est le port par défault du port https ?
 
@@ -45,3 +45,11 @@ style d'architecture (Representational State Transfer Application Program Interf
 - Comment configurer les props d'un comp REACT ?
 
 En les passants en entrée du composant
+
+- Définition d'une Promise ?
+
+L'objet Promise (pour « promesse ») est utilisé pour réaliser des traitements de façon asynchrone. Une promesse représente une valeur qui peut être disponible maintenant, dans le futur voire jamais.
+
+- Définition des hooks dans React ?
+
+Les Hooks sont des fonctions qui permettent de « se brancher » sur la gestion d'état local et de cycle de vie de React depuis des fonctions composants. Les Hooks ne fonctionnent pas dans des classes : ils vous permettent d'utiliser React sans classes.
